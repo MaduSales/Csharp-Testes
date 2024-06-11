@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\conversao03\bin\Debug\net8.0\conversao03.exe
+C:\Users\Aluno\Documents\Csharp\conversao03\bin\Debug\net8.0\conversao03.deps.json
+C:\Users\Aluno\Documents\Csharp\conversao03\bin\Debug\net8.0\conversao03.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\conversao03\bin\Debug\net8.0\conversao03.dll
+C:\Users\Aluno\Documents\Csharp\conversao03\bin\Debug\net8.0\conversao03.pdb
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.dll
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\refint\conversao03.dll
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.pdb
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\conversao03.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\conversao03\obj\Debug\net8.0\ref\conversao03.dll
