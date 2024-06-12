@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\operadores07\bin\Debug\net8.0\operadores07.exe
+C:\Users\Aluno\Documents\Csharp\operadores07\bin\Debug\net8.0\operadores07.deps.json
+C:\Users\Aluno\Documents\Csharp\operadores07\bin\Debug\net8.0\operadores07.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\operadores07\bin\Debug\net8.0\operadores07.dll
+C:\Users\Aluno\Documents\Csharp\operadores07\bin\Debug\net8.0\operadores07.pdb
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.dll
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\refint\operadores07.dll
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.pdb
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\operadores07.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\operadores07\obj\Debug\net8.0\ref\operadores07.dll
