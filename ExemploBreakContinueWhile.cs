@@ -6,17 +6,21 @@ using System.Threading.Tasks;
 
 namespace Exemplos
 {
-    internal class ExemploBreakContinue
+    internal class ExemploBreakContinueWhile
     {
         public static void Main(string[] args)
         {
-            for (int i = 0; i < 11; i++)
+            int i = 0;
+            while (i < 10)
             {
-                if (i % 2 == 0)
+                if ( i == 5)
                 {
+                    i++;
                     continue;
+
                 }
-                Console.WriteLine("Os ímpares são " + i);
+                Console.WriteLine(i);
+                i++;
             }
         }
     }
