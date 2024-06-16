@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\bin\Debug\net8.0\operadoresAtribuicao05.exe
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\bin\Debug\net8.0\operadoresAtribuicao05.deps.json
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\bin\Debug\net8.0\operadoresAtribuicao05.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\bin\Debug\net8.0\operadoresAtribuicao05.dll
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\bin\Debug\net8.0\operadoresAtribuicao05.pdb
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.dll
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\refint\operadoresAtribuicao05.dll
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.pdb
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\operadoresAtribuicao05.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\operadoresAtribuicao05\obj\Debug\net8.0\ref\operadoresAtribuicao05.dll
