@@ -1,6 +1,9 @@
-﻿using ConsoleApp1;
+﻿using ExemplosBasicos;
 
-//ExemploLacofor.Main(args);
-//ExemploForEach.Main(args);
-//ExemploForEach01.Main(args);
-//ExemploBreakContinue.Main(args);
+//ExemploSortArray.Main(args);
+//ExemploArrayMin.Main(args);
+//ExemploMax.Main(args);
+//ExemploArraySum.Main(args);
+//ExemploLength.Main(args);
+//ExemploAverage.Main(args);
+ExemploColunaLinha.Main(args);
