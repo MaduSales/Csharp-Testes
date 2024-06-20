@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\bin\Debug\net8.0\operadoresLogicos01.exe
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\bin\Debug\net8.0\operadoresLogicos01.deps.json
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\bin\Debug\net8.0\operadoresLogicos01.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\bin\Debug\net8.0\operadoresLogicos01.dll
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\bin\Debug\net8.0\operadoresLogicos01.pdb
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.dll
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\refint\operadoresLogicos01.dll
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.pdb
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\operadoresLogicos01.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\operadoresLogicos01\obj\Debug\net8.0\ref\operadoresLogicos01.dll
