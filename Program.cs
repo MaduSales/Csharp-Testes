@@ -1,9 +1,6 @@
-﻿using ExemplosBasicos;
+﻿
+using CsharpCore;
+using System;
 
-//ExemploSortArray.Main(args);
-//ExemploArrayMin.Main(args);
-//ExemploMax.Main(args);
-//ExemploArraySum.Main(args);
-//ExemploLength.Main(args);
-//ExemploAverage.Main(args);
-ExemploColunaLinha.Main(args);
+//rro.Main(args);
+Automovel.Main(args);
