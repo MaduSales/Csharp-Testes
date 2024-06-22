@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "operadoresComparacao01/1.0.0": {
+        "runtime": {
+          "operadoresComparacao01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operadoresComparacao01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

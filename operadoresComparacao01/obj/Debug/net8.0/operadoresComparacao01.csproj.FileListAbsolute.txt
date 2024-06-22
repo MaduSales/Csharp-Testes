@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\bin\Debug\net8.0\operadoresComparacao01.exe
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\bin\Debug\net8.0\operadoresComparacao01.deps.json
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\bin\Debug\net8.0\operadoresComparacao01.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\bin\Debug\net8.0\operadoresComparacao01.dll
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\bin\Debug\net8.0\operadoresComparacao01.pdb
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.dll
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\refint\operadoresComparacao01.dll
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.pdb
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\operadoresComparacao01.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\operadoresComparacao01\obj\Debug\net8.0\ref\operadoresComparacao01.dll
